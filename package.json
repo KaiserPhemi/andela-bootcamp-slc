@@ -1,0 +1,22 @@
+{
+  "name": "andela-bootcamp-slc",
+  "version": "1.0.0",
+  "description": "Andela bootcamp repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiserPhemi/andela-bootcamp-slc.git"
+  },
+  "author": "Oluwafemi Akinwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaiserPhemi/andela-bootcamp-slc/issues"
+  },
+  "homepage": "https://github.com/KaiserPhemi/andela-bootcamp-slc#readme",
+  "dependencies":{
+    "jasmine":"^2.5.3"
+  }
+}
