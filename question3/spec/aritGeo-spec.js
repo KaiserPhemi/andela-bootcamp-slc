@@ -59,6 +59,10 @@
       it("should return -1 for [1, 8, 27, 64, 125]", function() {
         expect(aritGeo([1, 8, 27, 64, 125])).toEqual(-1);
       });
+      it("should return `Input must be an array` for 5", function() {
+        expect(aritGeo(5)).toEqual('Input must be an array');
+      });
+
       
     });
   });

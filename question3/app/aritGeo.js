@@ -19,7 +19,7 @@ module.exports = {
 						}	
 					}
 					
-					else if (numList.length == 'undefined'){
+					else if (numList == []) {
 						return 0;
 					}
 					
