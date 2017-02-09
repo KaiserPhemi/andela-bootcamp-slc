@@ -19,7 +19,7 @@ module.exports = {
 						}	
 					}
 					
-					else if (numList == []) {
+					else if (numList.length == 0) {
 						return 0;
 					}
 					
