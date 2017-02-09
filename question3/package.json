@@ -1,0 +1,15 @@
+{
+  "name": "arithmetic-geo-progression",
+  "version": "1.0.0",
+  "description": "A program that checks for arithmetic or geometric progression",
+  "main": "app/aritGeo.js",
+  "scripts": {
+    "test": "jasmine-node"
+  },
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/KaiserPhemi/andela-bootcamp-slc.git"
+  },
+  "author": "Oluwafemi Akinwa",
+  "license": "MIT"
+}
