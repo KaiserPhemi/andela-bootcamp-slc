@@ -1,6 +1,9 @@
 (function(){
   'use strict';
 
+    var aritGeo = require("../app/aritGeo").aritGeo;
+
+
   describe("Determine the sequence of an array of numbers: ", function() {
 
     describe("Case for an empty array", function() {

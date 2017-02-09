@@ -15,9 +15,12 @@
 					else if(numList[count] < smallestVal){
 						smallestVal = numList[count];
 					}
+					else if((numList[count] == smallestVal) || (numList[count] == largestVal)){
+						return [numList[count]];
+					}
+					
 				}
 			}
 			return [smallestVal, largestVal];
 		}
 	};
-
