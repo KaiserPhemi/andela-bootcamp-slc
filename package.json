@@ -1,0 +1,19 @@
+{
+  "name": "andela-bootcamp-slc",
+  "version": "1.0.0",
+  "description": "Bootcamp Self Learning Clinic Coding Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiserPhemi/andela-bootcamp-slc.git"
+  },
+  "author": "Oluwafemi Akinwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaiserPhemi/andela-bootcamp-slc/issues"
+  },
+  "homepage": "https://github.com/KaiserPhemi/andela-bootcamp-slc#readme"
+}
